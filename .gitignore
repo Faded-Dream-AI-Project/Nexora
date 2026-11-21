@@ -1,0 +1,14 @@
+# Nexora: AI training stack in pure C. Copyright (c) 2026 Faded-Dream-AI-Project.
+# Source-available; see LICENSE.md. Not open-source software.
+
+build/
+*.o
+*.a
+*.so
+*.d
+compile_commands.json
+.cache/
+.vscode/
+.idea/
+*.swp
+.DS_Store
